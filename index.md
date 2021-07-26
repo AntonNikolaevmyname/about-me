@@ -1,10 +1,10 @@
-## Brief resume
+## Brief resume // I'm not looking for a job ( if u HR :) )
 
 ### Hard skills
-* C# (ASP.NET Core)
+* C# (ASP.NET Core, Web API)
 * SQL
 * JS
-* Blazor UI Framework
+* React
 * LINQ
 * EF Core
 
