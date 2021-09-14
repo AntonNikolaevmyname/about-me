@@ -1,8 +1,8 @@
-## Brief resume // I'm not looking for a job ( if u HR :) )
+## Brief resume
 
 ### Hard skills
 * C# (.NET Core, ASP.NET Core, Web API)
-* T-SQL
+* MS SQL, PostgreSQL
 * JS
 * React
 * Redux
