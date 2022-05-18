@@ -1,6 +1,11 @@
 ## Резюме
-[Резюме по ссылке](NikolaevAnton.NET.pdf)
-download в правом верхнем углу, чтобы скачать :)
+[Полное резюме по ссылке](NikolaevAnton.NET.pdf)
+
+Fullstack
+.NET C#
+React/TypeScript
+
+Рассматриваю только удаленную работу
 
 
 ### Контакты
