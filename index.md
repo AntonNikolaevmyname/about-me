@@ -1,5 +1,6 @@
 ## Резюме
-[a relative link](NikolaevAnton.NET.pdf)
+[Резюме по ссылке](NikolaevAnton.NET.pdf)
+download в правом верхнем углу, чтобы скачать :)
 
 
 ### Контакты
