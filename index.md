@@ -1,15 +1,8 @@
-## Brief resume
+## Резюме
 
-### Hard skills
-* C# (.NET Core, ASP.NET Core, Web API)
-* MS SQL, PostgreSQL
-* JS
-* React
-* Redux
-* LINQ
-* EF Core
 
-### Contacts
+
+### Контакты
 * [github](https://github.com/AntonNikolaevmyname)
 * tg: @Henningsvaer
 * email: anton.nikolaev.kazan@gmail.com
